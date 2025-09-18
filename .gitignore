@@ -1,0 +1,12 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+
+
+
+node_modules/
+npm-debug.log*
+yarn-error.log*
+__pycache__/
+*.py[cod]
+*.egg-info/
